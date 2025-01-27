@@ -1,4 +1,7 @@
-# Omnifood
+# Omnifood - Eat Healthy Everyday
+
+Visit the live site: https://omnifood-athira.netlify.app/
+
 
 Omnifood is a web design project for a fictional meal subscription service that delivers healthy and personalized meals to your door every single day. This project focuses on modern, responsive web design using only **HTML** and **CSS**, with minimal **JavaScript** for enhanced interactivity.
 
